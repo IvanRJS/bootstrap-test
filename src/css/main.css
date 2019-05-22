@@ -1,0 +1,20 @@
+ body {
+            background-color: rgba(77, 85, 206, 0.445);
+            font-family: 'Titillium Web', sans-serif;
+        }
+
+        header{
+            margin-top:75px;
+        }
+#testimonial{
+    background: #f1f1f1;
+    padding: 50px 0px 30px 0px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+footer{
+    background:#f1f1f1
+}
+
+html{ scroll-behavior: smooth}; 
